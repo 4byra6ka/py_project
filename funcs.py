@@ -6,3 +6,13 @@ def py_sum(a,b):
     :return: сумма
     """
     return a + b
+
+
+def py_minus(a,b):
+    """
+    Вычитание двух чисел
+    :param a: Число
+    :param b: Число
+    :return: Вычитание a от b
+    """
+    return a - b
